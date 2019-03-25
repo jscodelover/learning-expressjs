@@ -1,0 +1,16 @@
+{
+  "name": "learning-express",
+  "version": "1.0.0",
+  "description": "Learning the basics of express.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "api"
+  ],
+  "author": "jscodelover",
+  "license": "ISC"
+}
